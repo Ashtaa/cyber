@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cyber/static/css/main.ffd8b8ae.css",
+    "main.js": "/cyber/static/js/main.fedb8374.js",
+    "static/js/488.3c08b945.chunk.js": "/cyber/static/js/488.3c08b945.chunk.js",
+    "static/media/img3.jpg": "/cyber/static/media/img3.a9efb2349e9734c45ed5.jpg",
+    "static/media/trainer (1).jpg": "/cyber/static/media/trainer (1).4ce0976447c3924ffdf8.jpg",
+    "static/media/header-back.jpg": "/cyber/static/media/header-back.81107f7c672a7fe35808.jpg",
+    "static/media/trainer (2).jpg": "/cyber/static/media/trainer (2).c5847f2936d31a80a676.jpg",
+    "static/media/image1.png": "/cyber/static/media/image1.b3aae5db91f9f4445ad7.png",
+    "static/media/logo.png": "/cyber/static/media/logo.9fbdd414247da9193163.png",
+    "index.html": "/cyber/index.html",
+    "main.ffd8b8ae.css.map": "/cyber/static/css/main.ffd8b8ae.css.map",
+    "main.fedb8374.js.map": "/cyber/static/js/main.fedb8374.js.map",
+    "488.3c08b945.chunk.js.map": "/cyber/static/js/488.3c08b945.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffd8b8ae.css",
+    "static/js/main.fedb8374.js"
+  ]
+}
